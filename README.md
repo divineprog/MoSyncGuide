@@ -1,4 +1,6 @@
 MoSyncGuide
 ===========
 
-The Definitive Guide to Mobile App Development With MoSync
+An easy to use Guide to Mobile App Development With MoSync.
+
+Work-in-progress ;)
