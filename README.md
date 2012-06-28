@@ -1,10 +1,3 @@
-MoSyncGuide
-===========
-
-An easy to use Guide to mobile ppp development with [MoSync](http://mosync.com/).
-
-Work-in-progress ;)
-
 # An Easy Guide to Mobile App Development with MoSync
 
 By Mikael Kindborg, mikael.kindborg@mosync.com
