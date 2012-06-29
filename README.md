@@ -2,7 +2,7 @@
 
 By Mikael Kindborg, mikael.kindborg@mosync.com
 
-**This is a first draft, feedback is welcome!**
+**This is a first draft, [feedback is welcome](https://github.com/divineprog/MoSyncGuide/issues/1)!**
 
 If you want get started with mobile app development for Android, iOS, or Windows Phone, [MoSync](http://www.mosync.com/) is the tool of choice for you. With MoSync you can quickly create mobile apps using JavaScript and HTML/CSS.
 
