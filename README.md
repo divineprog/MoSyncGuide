@@ -1,4 +1,4 @@
-# Guide to Mobile App Development
+# Mobile App Development with MoSync
 
 By Mikael Kindborg, mikael.kindborg@mosync.com
 
